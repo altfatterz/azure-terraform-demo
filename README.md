@@ -57,3 +57,4 @@ $ terraform output
 
 `.terraform.lock.hcl` file should be committed to your repository to ensure that the same provider versions 
 are used when `terraform init` is run again in the future. 
+
